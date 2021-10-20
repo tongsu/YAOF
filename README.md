@@ -9,10 +9,10 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/QiuSimons/YAOF?style=for-the-badge">
 <p>
 <p align="center">
-<img src="https://github.com/QiuSimons/YAOF/workflows/R2C-OpenWrt/badge.svg">
-<img src="https://github.com/QiuSimons/YAOF/workflows/R2S-OpenWrt/badge.svg">
-<img src="https://github.com/QiuSimons/YAOF/workflows/R4S-OpenWrt/badge.svg">
-<img src="https://github.com/QiuSimons/YAOF/workflows/X86-OpenWrt/badge.svg">
+<img src="https://github.com/tongsu/YAOF/workflows/R2C-OpenWrt/badge.svg">
+<img src="https://github.com/tongsu/YAOF/workflows/R2S-OpenWrt/badge.svg">
+<img src="https://github.com/tongsu/YAOF/workflows/R4S-OpenWrt/badge.svg">
+<img src="https://github.com/tongsu/YAOF/workflows/X86-OpenWrt/badge.svg">
 <p>
 
 
